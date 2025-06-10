@@ -1,0 +1,13 @@
+# Laravel
+/todo_dexwin/vendor/
+/todo_dexwin/storage/
+/todo_dexwin/.env
+
+# Node
+/frontend/node_modules/
+/frontend_dexwin/.env
+
+# IDEs
+*.log
+*.idea
+*.vscode
